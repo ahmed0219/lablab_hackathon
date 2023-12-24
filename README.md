@@ -4,7 +4,10 @@
 In Arabic's embrace, where mental health whispers, `Nafsiyety`  blooms.This chatbot bridges stigma, empowers, guiding souls to wellness through information, support and culturally-aware care.Hope blossoms one conversation at a time.
 
 
-![Logo](ASSETS/new.png)
+<div align="center">
+  <img src="ASSETS/new.png" alt="Logo">
+</div>
+
 
 
 ## Authors
